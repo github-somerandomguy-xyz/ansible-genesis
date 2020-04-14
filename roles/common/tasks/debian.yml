@@ -16,7 +16,6 @@
         - git
         - git-core
         - goaccess
-        - golang
         - htop
         - libfontconfig
         - libjson-xs-perl
